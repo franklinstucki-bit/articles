@@ -1,6 +1,6 @@
 ---
 title: "Time Limits and Childhood Abuse Claims in California: A Plain-Language Starting Point"
-description: "How California's time limits for childhood sexual assault claims changed in 2024, why the date and place of abuse matter, and why to ask early."
+description: "How California's time limits for childhood sexual assault claims changed in 2024 and again in 2026 (SB 577), and why to ask a lawyer early."
 published: 2026-10-27
 ---
 
@@ -32,7 +32,13 @@ As the Legislative Counsel's summary of AB 452 describes it, the law in effect b
 
 That prior law also limited certain claims against third parties, such as institutions, from being filed on or after the survivor's 40th birthday, unless specific conditions were met. Those conditions involved whether the person or entity knew or had reason to know of misconduct that created a risk of childhood sexual assault, or failed to take reasonable steps or safeguards. AB 452 removed that age-40 restriction going forward.
 
-How these older rules apply to a particular survivor depends on dates and facts. A lawyer should review them with you.
+### A 2026 change: SB 577
+
+In 2026 the Legislature passed SB 577 (Statutes 2026, Chapter 971). For childhood sexual assault that happened **before January 1, 2024**, it shortens the discovery period: the time to file becomes **within 22 years after the survivor turned 18, or within 3 years (instead of 5) after the survivor discovered, or reasonably should have discovered,** that a psychological injury or illness occurring after age 18 was caused by the assault, whichever is later. For cases against a **public entity** (such as a county, school district or state agency) filed on or after January 1, 2026 by a survivor who is **40 or older**, SB 577 also adds a higher burden of proof and additional filing requirements.
+
+If your discovery happened more than three years ago, or if your claim involves a public entity, this change may matter a great deal. Talk with a lawyer promptly rather than waiting.
+
+How these rules apply to a particular survivor depends on dates and facts. A lawyer should review them with you.
 
 ### The revival window that closed
 
@@ -110,3 +116,4 @@ Yes, if you can. A consult is about information, not commitment. Learning where 
 - https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=352.&lawCode=CCP
 - https://slcsurvivorlaw.com/resources/delayed-disclosure-is-it-too-late-utah
 - https://slcsurvivorlaw.com/resources/troubled-teen-programs-what-therapists-hear-utah
+- https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB577
