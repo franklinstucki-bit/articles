@@ -55,6 +55,6 @@ Tristar has said no to a recall, according to the CPSC. That leaves families to 
 
 You can find more recall updates in our [product recall library](/insights/product-recalls).
 
-*Frank Stucki, Esq., MBA is licensed in Nevada, Washington and Utah; cases in other states, including California, are handled with local co-counsel licensed there.*
+*Frank Stucki, Esq., MBA is licensed in California, Nevada, Washington and Utah; cases in other states are handled with local co-counsel licensed there.*
 
 *This article is general information, not legal advice. Reading it does not create an attorney-client relationship.*
