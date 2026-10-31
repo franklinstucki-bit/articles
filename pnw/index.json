@@ -38,5 +38,85 @@
     "description": "For Washington LMHCs, LMFTs, LICSWs and psychologists: signs a client's trauma may be actionable, privilege and waiver, abuse deadlines and reporting duties.",
     "category": "For Therapists",
     "published": "2026-10-30"
+  },
+  {
+    "slug": "comparative-fault-washington",
+    "path": "resources/comparative-fault-washington",
+    "title": "Partly at Fault? How Washington's Comparative Fault Rule Works",
+    "description": "Washington follows a pure comparative fault rule, so being partly at fault for a crash reduces what you can recover but does not by itself bar your claim.",
+    "category": "Car Accidents",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "pip-coverage-washington",
+    "path": "resources/pip-coverage-washington",
+    "title": "PIP Coverage in Washington After a Crash",
+    "description": "Personal injury protection, or PIP, is coverage on your own auto policy that can help pay medical bills, lost wages and certain other costs after a crash,.",
+    "category": "Insurance & Deadlines",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "filing-deadline-washington-crash",
+    "path": "resources/filing-deadline-washington-crash",
+    "title": "Washington's Filing Deadline for Car and Motorcycle Injury Claims",
+    "description": "In Washington, most lawsuits for injuries from a car or motorcycle crash must be filed within three years under RCW 4.16.080(2).",
+    "category": "Insurance & Deadlines",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "uninsured-driver-washington",
+    "path": "resources/uninsured-driver-washington",
+    "title": "Hit by an Uninsured Driver in Washington",
+    "description": "If the driver who hit you had no insurance, too little insurance, or drove away, your own underinsured motorist (UIM) coverage may step in.",
+    "category": "Insurance & Deadlines",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "i5-crashes-seattle-tacoma",
+    "path": "resources/i5-crashes-seattle-tacoma",
+    "title": "Crashes on I-5 Through Seattle and Tacoma",
+    "description": "Crashes on I-5 between Everett, Seattle and Tacoma are often rear-end and lane-change collisions in stop-and-go traffic, made worse by rain and spray.",
+    "category": "Car Accidents",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "mountain-pass-crashes-snoqualmie-stevens",
+    "path": "resources/mountain-pass-crashes-snoqualmie-stevens",
+    "title": "Mountain Pass Crashes on Snoqualmie and Stevens",
+    "description": "Crashes on Snoqualmie Pass (I-90) and Stevens Pass (US 2) often involve snow, black ice, spinouts and chain-up zones.",
+    "category": "Car Accidents",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "deer-elk-wildlife-collisions-washington",
+    "path": "resources/deer-elk-wildlife-collisions-washington",
+    "title": "Deer, Elk and Wildlife Collisions in Washington",
+    "description": "Hitting a deer or elk is usually handled through your own auto coverage, because an animal is not an at-fault driver.",
+    "category": "Car Accidents",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "san-juan-islands-crashes",
+    "path": "resources/san-juan-islands-crashes",
+    "title": "Crashes on the San Juan Islands and in Friday Harbor",
+    "description": "Crashes on San Juan, Orcas and Lopez islands often involve narrow two-lane roads, visitors unfamiliar with them, rented mopeds and cars, deer, and.",
+    "category": "Islands & Ferries",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "motorcycle-helmet-law-washington",
+    "path": "resources/motorcycle-helmet-law-washington",
+    "title": "Washington's Motorcycle Helmet Law and Your Claim",
+    "description": "Washington requires motorcycle operators and passengers to wear a DOT-compliant helmet with the strap fastened, under RCW 46.37.530.",
+    "category": "Motorcycle Crashes",
+    "published": "2026-10-17"
+  },
+  {
+    "slug": "rental-car-tourist-crashes-washington",
+    "path": "resources/rental-car-tourist-crashes-washington",
+    "title": "Rental Car and Tourist Crashes in the Pacific Northwest",
+    "description": "A crash involving a rental car or an out-of-state driver in Washington is handled under Washington law, but the insurance can come from several places:.",
+    "category": "Car Accidents",
+    "published": "2026-10-17"
   }
 ]
